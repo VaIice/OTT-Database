@@ -41,22 +41,22 @@
 ----
 ## 🎞 쿼리문 / 쿼리 결과물 예시
 #### 1. 콘텐츠별 지원 플랫폼 검색
-![](https://github.com/VaIice/Capstone/assets/141003473/cdd1c098-1632-4f73-a45d-86ef32dc78e7)
+![image](https://github.com/user-attachments/assets/f285b528-ee96-417c-96b9-b4990bfe5728)
 찾고자하는 콘텐츠의 제목을 입력 시, 해당 콘텐츠를 제공하는 OTT 플랫폼의 종류를 알 수 있습니다.
 
 ---
 #### 2. 플랫폼별 지원 콘텐츠 검색
-![](https://github.com/VaIice/Capstone/assets/141003473/ce558ae8-e03c-44b9-929b-a13a044b206d)
+![image](https://github.com/user-attachments/assets/52911573-4e4f-4e78-a850-433c00541fcc)
 ‘wavve’ 플랫폼에서 제공하는 ‘공포'와 ‘스릴러' 장르의 영화를 검색해볼 수 있습니다.
 
 ---
 #### 3. 선호 콘텐츠 기반 OTT 플랫폼 추천
-![](https://github.com/VaIice/Capstone/assets/141003473/de732636-95a6-4c22-8b1a-db07c58e1fc9)
+![image](https://github.com/user-attachments/assets/456b845d-96bc-42fe-8422-3734aa379018)
 ‘lion’ 사용자의 선호 콘텐츠를 검색하고, 해당 서브쿼리의 결과를 바탕으로 해당 콘텐츠들을 지원하는 플랫폼들의  ‘플랫폼번호'로 GROUP BY를 수행한 뒤, 플랫폼 별 COUNT를 계산합니다. 결과적으로 어떤 플랫폼이 내가 선호하는 컨텐츠들을 가장 많이 제공하는지 알 수 있습니다.
 
 ---
 #### 4. 선호 장르 기반 콘텐츠 추천
-<img src="https://github.com/VaIice/Capstone/assets/141003473/9dd02206-7fbf-451e-ba5d-46e94f9da60a" width="800"/>
+![image](https://github.com/user-attachments/assets/c7227449-2abf-45dc-904d-9a8c0e007def)
 ‘horse’ 사용자의 선호 장르를 검색하고, 해당 서브쿼리의 결과를 바탕으로 선호 장르에 속하는 콘텐츠를 ‘인기도’ 순으로 보여줄 수 있습니다.
 
 ----
