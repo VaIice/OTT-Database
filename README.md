@@ -1,5 +1,5 @@
 ## 📝 OTT 플랫폼 통합 DB
-##### TMDB API, MySQL, Python을 이용한 OTT 플랫폼 통합 DB 구축
+##### TMDB API, PostgreSQL, Python을 이용한 OTT 플랫폼 통합 DB 구축
 
 ----
 ## 👥 팀 소개
@@ -12,7 +12,7 @@
 
 ## 🛠 Tools and Technologies
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2331575F.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 ----
 
