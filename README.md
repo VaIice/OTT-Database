@@ -99,3 +99,8 @@ The Movie Database(TMDB)는 영화, TV 프로그램에 대한 다양한 정보�
 ![image](https://github.com/user-attachments/assets/cc53241c-e103-4cf4-85f1-01b6a15ef411)
 
 ###### 외래키는 밑줄로 표시되었습니다.
+
+----
+## 🛠 데이터 예시
+![image](https://github.com/user-attachments/assets/317e3a2a-ee17-424f-b814-60d28df34f74)
+
