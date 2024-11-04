@@ -1,4 +1,4 @@
-## 📝 OTT 플랫폼 통합 DB
+## 📝 OTT 플랫폼 통합 DB (2人 프로젝트)
 ##### TMDB API, PostgreSQL, Python을 이용한 OTT 플랫폼 통합 DB 구축
 
 ----
